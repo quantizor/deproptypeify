@@ -1,0 +1,17 @@
+{
+  "name": "deproptypeify",
+  "version": "1.0.0",
+  "description": "searches for <componentName>.propTypes and removes the block",
+  "author": "Evan Jacobs <evan@yaycmyk.com> (http://yaycmyk.com)",
+  "repository": "https://github.com/yaycmyk/deproptypeify",
+  "bugs": "https://github.com/yaycmyk/deproptypeify/issues",
+  "dependencies": {
+    "grasp": "^0.4.0",
+    "through2": "^2.0.0"
+  },
+  "keywords": [
+    "react",
+    "browserify"
+  ],
+  "license": "MIT"
+}
