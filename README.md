@@ -1,5 +1,7 @@
 # deproptypeify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yaycmyk/deproptypeify.svg)](https://greenkeeper.io/)
+
 Searches for <componentName>.propTypes and removes the block, because ifdef is annoying.
 
 ## Install
